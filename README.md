@@ -1,4 +1,4 @@
-# Little Lemon Restaurant
+# Little Lemon Restaurant [ In Reactjs]
 
 Little Lemon Restaurant is a responsive web application where users can book a table at the restaurant. This project was created as the final assignment for the [Meta Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone). It demonstrates advanced skills in React, including hooks, state management, routing, and testing.
 
