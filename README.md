@@ -2,9 +2,6 @@
 
 Little Lemon Restaurant is a responsive web application where users can book a table at the restaurant. This project was created as the final assignment for the [Meta Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone). It demonstrates advanced skills in React, including hooks, state management, routing, and testing.
 
-🌐 **[Live Demo](https://little-lemon-restaurant-sage.vercel.app/)** deployed on Vercel.
-
-
 ## Features
 
 - **Dynamic Reservation System**: Allows users to select available times for booking a table.
@@ -50,6 +47,11 @@ Ensure you have the following installed:
 3.Start the development server:
   ```bash
   npm run dev
+
+![image](https://github.com/user-attachments/assets/e2e78b65-d5df-463b-a172-b93c8308b3ae)
+
+![image](https://github.com/user-attachments/assets/26ee151b-ea81-45ef-b06a-3eec69ee2a68)
+
   ```
 ## Testing
 This project includes unit and integration tests using Vitest and React Testing Library.
