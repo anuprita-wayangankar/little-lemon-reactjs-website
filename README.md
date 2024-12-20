@@ -41,7 +41,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    https://github.com/anuprita-wayangankar/little-lemon-reactjs-website.git
-   cd little-lemon-restaurant
+   cd little-lemon-reactjs-website
    ```
 2. Install dependencies:
   ```bash
