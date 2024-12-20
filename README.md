@@ -40,7 +40,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/little-lemon-restaurant.git
+   https://github.com/anuprita-wayangankar/little-lemon-reactjs-website.git
    cd little-lemon-restaurant
    ```
 2. Install dependencies:
